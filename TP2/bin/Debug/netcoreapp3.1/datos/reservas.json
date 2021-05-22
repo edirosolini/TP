@@ -1,0 +1,25 @@
+[
+  {
+    "ID": 1,
+    "fDesde": "2021-05-01T00:00:00Z",
+    "fHasta": "2021-05-31T00:00:00Z",
+    "Propiedad": {
+      "Codigo": 1,
+      "Nombre": "Pepe",
+      "Ciudad": "Mi casa",
+      "Barrio": "Mi casa",
+      "Estrellas": 5,
+      "CantidadDePersonas": 3,
+      "TieneTV": true
+    },
+    "Persona": {
+      "DNI": 33333333,
+      "Nombre": "Administrodr",
+      "Mail": "administrador@administrador.com",
+      "Password": "1000:B4FQYp0tpIskbdjllRweb6G4kCwXNJ/Y:3BBKBbaJSQ/y1DD7wEw1H0UByWnl5Dhs",
+      "EsAdmin": true,
+      "Bloqueado": false
+    },
+    "Precio": 30.91
+  }
+]

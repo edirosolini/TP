@@ -1,0 +1,15 @@
+[{
+  "DNI": 123456789,
+  "Nombre": "Administrodr",
+  "Mail": "administrador@administrador.com",
+  "Password": "1000:B4FQYp0tpIskbdjllRweb6G4kCwXNJ/Y:3BBKBbaJSQ/y1DD7wEw1H0UByWnl5Dhs",
+  "EsAdmin": true,
+  "Bloqueado": false
+},{
+  "DNI": 234567890,
+  "Nombre": "Administrodr",
+  "Mail": "administrador@administrador.com",
+  "Password": "1000:GSEX8yI4nj3DCQO98mcfUdbeZbIsU2t0:Awle7YqetdqorF2IF9zKdNG88ao3w/jX",
+  "EsAdmin": false,
+  "Bloqueado": false
+},]

@@ -1,0 +1,18 @@
+[
+  {
+    "DNI": 33333333,
+    "Nombre": "Administrodr",
+    "Mail": "administrador@administrador.com",
+    "Password": "1000:B4FQYp0tpIskbdjllRweb6G4kCwXNJ/Y:3BBKBbaJSQ/y1DD7wEw1H0UByWnl5Dhs",
+    "EsAdmin": true,
+    "Bloqueado": false
+  },
+  {
+    "DNI": 3213,
+    "Nombre": "asdadsad",
+    "Mail": "sdaasd@dsada",
+    "Password": "1000:nN26F3UDFhY8GZdXr1bJG4W5f+ELWufd:B7Scxx2CSu4puZ1Hv7L3TAsC8FRlPU7U",
+    "EsAdmin": true,
+    "Bloqueado": false
+  }
+]

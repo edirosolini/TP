@@ -1,0 +1,11 @@
+[
+  {
+    "Codigo": 1,
+    "Nombre": "Pepe",
+    "Ciudad": "Mi casa",
+    "Barrio": "Mi casa",
+    "Estrellas": 5,
+    "CantidadDePersonas": 3,
+    "TieneTV": true
+  }
+]
